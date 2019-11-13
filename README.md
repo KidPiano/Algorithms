@@ -4,7 +4,8 @@
 
 ## Tree
 - Tree Traversal (Preorder, Inorder, Postorder)
-- 
+- Level Order Traversal
+- Morris Traversal
 
 
 ## Graph
