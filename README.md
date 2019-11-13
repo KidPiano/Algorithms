@@ -1,1 +1,23 @@
 # Algorithms
+
+- Binary Search
+
+## Tree
+- Tree Traversal (Preorder, Inorder, Postorder)
+- 
+
+
+## Graph
+- BFS
+- DFS
+
+## String Searching
+- KMP
+- Boyer-Moore
+- Z Algorithm
+- Rabin Karp
+
+
+asdasdasdsad
+- Binary Search (insertion index, overflow, etc)
+- DFS (topological sort, cycle, etc)
