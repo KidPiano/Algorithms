@@ -1,1 +1,1 @@
-![CLRS](/CLRS.jpg)
+![CLRS](Pictures/CLRS.jpg)
