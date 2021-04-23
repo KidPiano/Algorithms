@@ -10,7 +10,7 @@
 
 ## Graph
 - BFS
-- DFS
+- [DFS](https://kidpiano.github.io/Algorithms/Graph/DFS.html)
 
 ## String Searching
 - KMP
